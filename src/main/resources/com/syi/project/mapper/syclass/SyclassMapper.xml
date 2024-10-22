@@ -21,7 +21,7 @@
 
     <!-- 반 등록 -->
     <insert id="classEnroll" parameterType="com.syi.project.model.syclass.SyclassVO">
-    insert into `CLASS` (CLASS_NAME, DESCRIPTION, ADMIN_NO, TEACHER_NAME, START_DATE, END_DATE, CLASSROOM_NAME)
+    insert into "CLASS" (CLASS_NAME, DESCRIPTION, ADMIN_NO, TEACHER_NAME, START_DATE, END_DATE, CLASSROOM_NAME)
     values (#{className}, #{description}, #{adminNo}, #{teacherName,jdbcType=VARCHAR}, #{startDate,jdbcType=DATE}, #{endDate,jdbcType=DATE}, #{classroomName,jdbcType=VARCHAR})
 
     </insert>
