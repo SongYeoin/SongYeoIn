@@ -1,9 +1,8 @@
 <div align="center">
 <h2> 🏫 송여인(SongYeoIn) 🏫</h2>
-v1. Local에서 실행되는 **Oracle**
-<br>
-v2. docker로 사용하는 **MySQL, AWS** 배포 진행<br>
-v3. **Spring Boot, React** 변경 후 배포
+v1. Local에서 실행되는 <b>Oracle</b><br/>
+v2. docker로 사용하는 <b>MySQL, AWS</b> 배포 진행<br>
+v3. <b>Spring Boot, React</b> 변경 후 배포
 </div>
 
 <br/>
@@ -17,11 +16,11 @@ v3. **Spring Boot, React** 변경 후 배포
 <br/>
 
 # 2. Team Members (팀원 및 팀 소개)
-| 👑김예인👑 | 😎김도연😎 | 😁김예린😁 | 🤗이유진🤗 | 😉최소연😉 |
+| 👑김예인 | 😎김도연 | 😁김예린 | 🤗이유진 | 😉최소연 |
 |:------:|:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/3cfbff01-af9f-428a-8b3d-91d344becdfc" alt="김예인" width="150"> | <img src="https://github.com/user-attachments/assets/2f1437f6-77f3-4d1b-aa35-d961f9bcdea4" alt="김도연" width="150"> | <img src="https://github.com/user-attachments/assets/f55acd8f-d65c-41b0-9342-60d73d56c3b7" alt="김예린" width="150"> | <img src="https://github.com/user-attachments/assets/d474b1fb-cf8c-4f45-882b-6ff1a606de1b" alt="이유진" width="150"> |<img src="https://github.com/user-attachments/assets/fef85c46-3d02-4064-a62a-293046b7f9f7" alt="최소연" width="150">
-| FE, BE | FE, BE | FE, BE | FE, BE | FE, BE
-| [GitHub](https://github.com/brightyein) | [GitHub](https://github.com/kimdoyeon304) | [GitHub](https://github.com/yeeeeeeer) | [GitHub](https://github.com/YJ-2) | [GitHub](https://github.com/RACHEL-2929)
+| <img src="https://github.com/user-attachments/assets/554ff8cb-8961-4692-9f89-1430b00eadd3" alt="김예인" height="170" width="170"> | <img src="https://github.com/user-attachments/assets/509ee1f7-b34b-4ce5-8a34-3c88eb17be25" alt="김도연" height="170"  width="170"> | <img src="https://github.com/user-attachments/assets/01710d80-3d29-4134-99cc-fb640817e664" alt="김예린" height="170"  width="170"> | <img src="https://github.com/user-attachments/assets/510cfbc3-cd21-4c95-a362-3003e1770467" alt="이유진" height="170"  width="170"> |<img src="https://github.com/user-attachments/assets/614f82c8-6f6e-47b3-b78f-ee3b6bea7d75" alt="최소연" height="170"  width="170">
+|<ul align="left"><li>반관리</li><li>시간표</li><li>출석</li></ul>| <ul align="left"><li>프론트</li><li>동아리</li></ul> | <ul align="left"><li>교육일지</li><li>교육일정</li></ul> | <ul align="left"><li>회원</li><li>공지사항</li><li>익명게시판</li></ul> | <ul align="left"><li>채팅</li><li>프로필 등록</li></ul>
+| [brightyein](https://github.com/brightyein) | [kimdoyeon304](https://github.com/kimdoyeon304) | [yeeeeeeer](https://github.com/yeeeeeeer) | [YJ-2](https://github.com/YJ-2) | [RACHEL-2929](https://github.com/RACHEL-2929)
 
 <br/>
 <br/>
@@ -51,200 +50,106 @@ v3. **Spring Boot, React** 변경 후 배포
   - 공지사항은 다중 파일 업로드가 가능합니다.
   - 익명게시판은 게시글에 좋아요, 대댓글 작성이 가능합니다.
 
-
 <br/>
 <br/>
 
-# 4. Tasks & Responsibilities (작업 및 역할 분담)
-|  |  |  |
-|-----------------|-----------------|-----------------|
-| 김예인    |  <img src="https://github.com/user-attachments/assets/3cfbff01-af9f-428a-8b3d-91d344becdfc" alt="김예인" width="100"> | <ul><li>반관리</li><li>시간표</li><li>출석</li></ul>     |
-| 김도연   |  <img src="https://github.com/user-attachments/assets/2f1437f6-77f3-4d1b-aa35-d961f9bcdea4" alt="김도연" width="100">| <ul><li>프론트</li><li>동아리</li></ul> |
-| 김예린   |  <img src="https://github.com/user-attachments/assets/f55acd8f-d65c-41b0-9342-60d73d56c3b7" alt="김예린" width="100">    |<ul><li>교육일지</li><li>교육일정</li></ul>  |
-| 이유진    |  <img src="https://github.com/user-attachments/assets/d474b1fb-cf8c-4f45-882b-6ff1a606de1b" alt="이유진" width="100">    | <ul><li>회원</li><li>공지사항</li><li>익명게시판</li></ul>    |
-| 최소연    |  <img src="https://github.com/user-attachments/assets/fef85c46-3d02-4064-a62a-293046b7f9f7" alt="최소연" width="100">    | <ul><li>채팅</li><li>프로필 등록</li></ul>    
-
-<br/>
-<br/>
-
-# 5. Technology Stack (기술 스택)
-## 5.1 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+# 4. Technology Stack (기술 스택)
+## 4.1 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
 
 <br/>
 
-## 5.2 Backend--버전?
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
+## 4.2 Backend
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/11-878787?style=for-the-badge">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/5.3.9-878787?style=for-the-badge">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/21.3.0-878787?style=for-the-badge">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"><img src="https://img.shields.io/badge/5.0.28-878787?style=for-the-badge">
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"><img src="https://img.shields.io/badge/9.0-878787?style=for-the-badge">
+<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
 
 <br/>
 
-## 5.3 Cooperation
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+## 4.3 Cooperation
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
 
 
 <br/>
 
-# 6. Project Structure (프로젝트 구조)
+# 5. Project Structure (프로젝트 구조)
 ```plaintext
-src/
-├── main/
-│    ├── java/          # 재사용 가능한 UI 컴포넌트
-│    ├── resources/               # 커스텀 훅 모음
-│    ├── webapp/               # 각 페이지별 컴포넌트
-│    ├── App.js               # 메인 애플리케이션 컴포넌트
-│    ├── index.js             # 엔트리 포인트 파일
-│   ├── index.css            # 전역 css 파일
-│   ├── firebaseConfig.js    # firebase 인스턴스 초기화 파일
-│   package-lock.json    # 정확한 종속성 버전이 기록된 파일로, 일관된 빌드를 보장
-│   package.json         # 프로젝트 종속성 및 스크립트 정의
-├── .gitignore               # Git 무시 파일 목록
-└── pom.xml                # Maven 프로젝트의 빌드 설정 및 의존성 관리 파일
-└── README.md                # 프로젝트 개요 및 사용법
+📦SongYeoIn
+ ┣ 📂src/main/java
+ ┃ ┣ 📂com.syi.project.config
+ ┃ ┣ 📂com.syi.project.controller
+ ┃ ┣ 📂com.syi.project.mapper
+ ┃ ┣ 📂com.syi.project.model
+ ┃ ┗ 📂com.syi.project.service
+ ┣ 📂src/main/resources
+ ┃ ┣ 📂com.syi.project.mapper
+ ┃ ┗ 📜log4j.xml
+ ┃ ┗ 📜log4jdbc.log4j2.properties
+ ┣ 📂src/test/java
+ ┃ ┣ 📂mapper
+ ┃ ┣ 📂persistence
+ ┃ ┗ 📂service
+ WEB
+ ┣ 📂src/main/webapp
+ ┃ ┣ 📂WEB-INF
+ ┃ ┃ ┣ 📂spring
+ ┃ ┃ ┃ ┣ 📂appServlet
+ ┃ ┃ ┃ ┃ ┣ 📜security-context.xml
+ ┃ ┃ ┃ ┃ ┣ 📜servlet-context.xml 
+ ┃ ┃ ┃ ┗ 📜root-context.xml
+ ┃ ┃ ┣ 📂views
+ ┃ ┃ ┃ ┣ 📂common
+ ┃ ┃ ┃ ┣ 📂journal
+ ┃ ┃ ┃ ┣ 📂admin
+ ┃ ┃ ┃ ┃ ┣ 📂board
+ ┃ ┃ ┃ ┃ ┣ 📂chatroom
+ ┃ ┃ ┃ ┃ ┣ 📂member
+ ┃ ┃ ┃ ┃ ┣ 📂notice
+ ┃ ┃ ┃ ┃ ┣ 📂class
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂attendance
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂club
+ ┃ ┃ ┃ ┣ 📂member
+ ┃ ┃ ┃ ┃ ┣ 📂attendance
+ ┃ ┃ ┃ ┃ ┣ 📂board
+ ┃ ┃ ┃ ┃ ┣ 📂chatroom
+ ┃ ┃ ┃ ┃ ┣ 📂club
+ ┃ ┃ ┃ ┃ ┣ 📂notice
+ ┃ ┃ ┃ ┗ 📜index.jsp
+ ┃ ┃ ┗ 📜web.xml
+ ┗ 📜pom.xml
 ```
 
 <br/>
 <br/>
 
-# 7. Development Workflow (개발 워크플로우)
+
+# 6. Development Workflow (개발 워크플로우)
 ## 브랜치 전략 (Branch Strategy)
 우리의 브랜치 전략은 Git Flow를 기반으로 하며, 다음과 같은 브랜치를 사용합니다.
 
 - Main Branch
-  - 배포 가능한 상태의 코드를 유지합니다.
-  - 모든 배포는 이 브랜치에서 이루어집니다.
+  - 배포 가능한 안정적인 브랜치로 직접적인 커밋은 없습니다.
+  - 향후 릴리즈를 위한 준비 단계입니다.
+
+- Develop Branch
+  - 모든 기능 개발이 통합되고 테스트되는 브랜치입니다.
+  - 충분히 안정적이면 Main 브랜치로 병합됩니다.
   
-- feat/{name} Branch
-  - 팀원 각자의 개발 브랜치입니다.
-  - 모든 기능 개발은 이 브랜치에서 이루어집니다.
+- feature/{function} Branch
+  - 기능별 브랜치로 모든 기능 개발은 이 브랜치에서 이루어집니다.
+  - 기능 개발이 완료되면 Develop 브랜치로 병합됩니다.
+
 
 <br/>
 <br/>
 
-# 8. Coding Convention
-## 문장 종료
-```
-// 세미콜론(;)
-console.log("Hello World!");
-```
 
-<br/>
-
-
-## 명명 규칙
-* 상수 : 영문 대문자 + 스네이크 케이스
-```
-const NAME_ROLE;
-```
-* 변수 & 함수 : 카멜케이스
-```
-// state
-const [isLoading, setIsLoading] = useState(false);
-const [isLoggedIn, setIsLoggedIn] = useState(false);
-const [errorMessage, setErrorMessage] = useState('');
-const [currentUser, setCurrentUser] = useState(null);
-
-// 배열 - 복수형 이름 사용
-const datas = [];
-
-// 정규표현식: 'r'로 시작
-const = rName = /.*/;
-
-// 이벤트 핸들러: 'on'으로 시작
-const onClick = () => {};
-const onChange = () => {};
-
-// 반환 값이 불린인 경우: 'is'로 시작
-const isLoading = false;
-
-// Fetch함수: method(get, post, put, del)로 시작
-const getEnginList = () => {...}
-```
-
-<br/>
-
-## 블록 구문
-```
-// 한 줄짜리 블록일 경우라도 {}를 생략하지 않고, 명확히 줄 바꿈 하여 사용한다
-// good
-if(true){
-  return 'hello'
-}
-
-// bad
-if(true) return 'hello'
-```
-
-<br/>
-
-## 함수
-```
-함수는 함수 표현식을 사용하며, 화살표 함수를 사용한다.
-// Good
-const fnName = () => {};
-
-// Bad
-function fnName() {};
-```
-
-<br/>
-
-## 태그 네이밍
-Styled-component태그 생성 시 아래 네이밍 규칙을 준수하여 의미 전달을 명확하게 한다.<br/>
-태그명이 길어지더라도 의미 전달의 명확성에 목적을 두어 작성한다.<br/>
-전체 영역: Container<br/>
-영역의 묶음: {Name}Area<br/>
-의미없는 태그: <><br/>
-```
-<Container>
-  <ContentsArea>
-    <Contents>...</Contents>
-    <Contents>...</Contents>
-  </ContentsArea>
-</Container>
-```
-
-<br/>
-
-## 폴더 네이밍
-카멜 케이스를 기본으로 하며, 컴포넌트 폴더일 경우에만 파스칼 케이스로 사용한다.
-```
-// 카멜 케이스
-camelCase
-// 파스칼 케이스
-PascalCase
-```
-
-<br/>
-
-## 파일 네이밍
-```
-컴포넌트일 경우만 .jsx 확장자를 사용한다. (그 외에는 .js)
-customHook을 사용하는 경우 : use + 함수명
-```
-
-<br/>
-<br/>
-
-# 9. 커밋 컨벤션
+# 7. 커밋 컨벤션
 ## 기본 구조
-```
-type : subject
-
-body 
-```
-
-<br/>
-
-## type 종류
 ```
 feat : 새로운 기능 추가
 fix : 버그 수정
@@ -252,53 +157,6 @@ docs : 문서 수정
 style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우
 refactor : 코드 리펙토링
 test : 테스트 코드, 리펙토링 테스트 코드 추가
-chore : 빌드 업무 수정, 패키지 매니저 수정
 ```
 
 <br/>
-
-## 커밋 이모지
-```
-== 코드 관련
-📝	코드 작성
-🔥	코드 제거
-🔨	코드 리팩토링
-💄	UI / style 변경
-
-== 문서&파일
-📰	새 파일 생성
-🔥	파일 제거
-📚	문서 작성
-
-== 버그
-🐛	버그 리포트
-🚑	버그를 고칠 때
-
-== 기타
-🐎	성능 향상
-✨	새로운 기능 구현
-💡	새로운 아이디어
-🚀	배포
-```
-
-<br/>
-
-## 커밋 예시
-```
-== ex1
-✨Feat: "회원 가입 기능 구현"
-
-SMS, 이메일 중복확인 API 개발
-
-== ex2
-📚chore: styled-components 라이브러리 설치
-
-UI개발을 위한 라이브러리 styled-components 설치
-```
-
-<br/>
-<br/>
-
-# 10. 컨벤션 수행 결과
-<img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
-<img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
